@@ -1,2 +1,2 @@
 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
----- --- rwx
+chmod ug-rwx o+rwx hello
