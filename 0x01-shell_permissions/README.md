@@ -1,1 +1,1 @@
-beety
+directories
